@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin 👋
+# Hi 👋
 
 **📍 Manchester | 🏗️ Senior Product Manager @ Dizplai | 🚀 AI-Powered Sports Tech Builder**
 
@@ -21,13 +21,11 @@
 
 - 🎙️ **[AI Podcast Automation](https://github.com/pearsonpro99-sipster/sporttech-aipodcast-automation)** – Automated sports tech podcast generation with 99.8% cost reduction vs traditional production
 - 🗳️ **AI Engagement Engine** – Real-time poll generation and sentiment analysis for live sports broadcasts (sub-2s latency)
-- 🏏 **Live Prediction Overlays** – Cricket T20 World Cup betting odds integration via Polymarket for OBS streaming
-- 🤖 **MCP Apps Integration** – AI Engagement Partner for moderator workflows in Interplai platform
-- ⚽ **FPL Analytics Dashboard** – Fantasy Premier League data integration for second screen experiences
-- 📊 **Broadcast Quality UI** – Client-branded poll previews with real-time WebSocket updates
-- 🎯 **Multi-Channel Social Integration** – WhatsApp, Twitter, Instagram, Reddit sentiment aggregation
-- 🔊 **Speech-to-Text Pipeline** – Deepgram + Claude AI for live broadcast transcription and analysis
 
+Personal Projects
+
+☕ Coffee Shop Finder – Location-based discovery app for finding and rating local coffee shops
+🎾 Padel Scoring App – Real-time match scoring and tournament management for padel tennis
 ---
 
 ## Tech Stack
@@ -53,7 +51,7 @@
 
 ## About Dizplai
 
-We build second screen web applications that supplement live sports broadcasts, helping rights holders like **Arsenal FC** and **Sky Sports** capture first-party fan data and drive engagement. Our comprehensive content library includes social data, official feeds, FPL data, performance metrics, and sentiment analysis—all exposed via APIs.
+Beyond our core graphics package, we build innovative expereinces that supplement live sports broadcasts, helping rights holders capture first-party fan data and drive engagement. Our comprehensive content library includes social data, official feeds, performance metrics, and sentiment analysis—all exposed via APIs.
 
 **Mission:** Own fan relationships, don't rent them from third-party platforms.
 
@@ -65,7 +63,6 @@ We build second screen web applications that supplement live sports broadcasts, 
 ✅ Complete Next.js dashboard with real-time polling  
 ✅ 99.8% cost reduction in podcast production  
 ✅ Docker-based backend with Deepgram + Claude integration  
-✅ Broadcast-quality UI with client branding  
 ✅ AI suggestion endpoints for contextual polls/quizzes  
 
 ---
@@ -77,5 +74,3 @@ We build second screen web applications that supplement live sports broadcasts, 
 🌐 [Dizplai](https://dizplai.com)
 
 ---
-
-*Building production-grade software as a non-engineer. AI-powered innovation at sports tech scale.*
