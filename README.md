@@ -13,8 +13,6 @@
 
 **Deep in innovation mode** – building AI-powered fan engagement tools at breakneck speed. Bridging product strategy with technical execution, proving non-engineers can ship production-grade software by partnering with AI.
 
-🔗 **[dizplai.com](https://dizplai.com)** – Second screen experiences helping sports rights holders own their fan relationships, not rent them from platforms.
-
 ---
 
 ## Current Projects
@@ -67,9 +65,9 @@ Beyond our core graphics package, we build innovative expereinces that supplemen
 
 ---
 
-## Connect
+## Connect with me 
 
-📧 ben.pearson@dizplai.com  
+📧 bpsipandship@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/benjaminpearson)  
 🌐 [Dizplai](https://dizplai.com)
 
