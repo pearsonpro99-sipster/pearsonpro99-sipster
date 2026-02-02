@@ -11,8 +11,7 @@
 
 ---
 
-**Deep in innovation mode** – building AI-powered fan engagement tools at breakneck speed. Bridging product strategy with technical execution, proving non-engineers can ship production-grade software by partnering with AI.
-
+**Deep in innovation mode** – *Building production-grade software as a non-engineer. AI-powered innovation at sports tech scale.*
 ---
 
 ## Current Projects
@@ -20,10 +19,11 @@
 - 🎙️ **[AI Podcast Automation](https://github.com/pearsonpro99-sipster/sporttech-aipodcast-automation)** – Automated sports tech podcast generation with 99.8% cost reduction vs traditional production
 - 🗳️ **AI Engagement Engine** – Real-time poll generation and sentiment analysis for live sports broadcasts (sub-2s latency)
 
-Personal Projects
+**Personal Projects**
 
-☕ Coffee Shop Finder – Location-based discovery app for finding and rating local coffee shops
-🎾 Padel Scoring App – Real-time match scoring and tournament management for padel tennis
+- ☕ **Coffee Shop Finder** – Location-based discovery app for finding and rating local coffee shops
+- 🎾 **Padel Scoring App** – Real-time match scoring and tournament management for padel tennis
+
 ---
 
 ## Tech Stack
@@ -49,7 +49,7 @@ Personal Projects
 
 ## About Dizplai
 
-Beyond our core graphics package, we build innovative expereinces that supplement live sports broadcasts, helping rights holders capture first-party fan data and drive engagement. Our comprehensive content library includes social data, official feeds, performance metrics, and sentiment analysis—all exposed via APIs.
+Beyond our core graphics package, we build innovative experiences that supplement live sports broadcasts, helping rights holders capture first-party fan data and drive engagement. Our comprehensive content library includes social data, official feeds, performance metrics, and sentiment analysis—all exposed via APIs.
 
 **Mission:** Own fan relationships, don't rent them from third-party platforms.
 
@@ -67,7 +67,7 @@ Beyond our core graphics package, we build innovative expereinces that supplemen
 
 ## Connect with me 
 
-📧 bpsipandship@gmail.com
+📧 bpsipandship@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/benjaminpearson)  
 🌐 [Dizplai](https://dizplai.com)
 
