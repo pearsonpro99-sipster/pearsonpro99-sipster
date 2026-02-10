@@ -20,7 +20,7 @@
 
 ---
 
-## Current Projects
+## Completed Projects
 
 - 🎙️ **[AI Podcast Automation](https://github.com/pearsonpro99-sipster/sporttech-aipodcast-automation)** – Automated sports tech podcast generation with 99.8% cost reduction vs traditional production
 - 🗳️ **AI Engagement Engine** – Real-time poll generation and sentiment analysis for live sports broadcasts (sub-2s latency)
@@ -29,7 +29,7 @@
 
 - ☕ **Sipster** – Native iOS app for discovering independent coffee shops. Tinder-style swipe interface, 200+ chain filter, running-distance modes. Built in Swift/SwiftUI with Firebase & Google Places API. *Targeting App Store Q1 2026.*
 - 📱 **Tapel** – *Submitted to the Apple App Store* ✅
-- 🎾 **Padel Scoring App** – Real-time match scoring and tournament management for padel tennis
+- 🎾 **Padel Scoring App** – Real-time match scoring and tournament management for padel tennis - never forget the score again!
 
 ---
 
