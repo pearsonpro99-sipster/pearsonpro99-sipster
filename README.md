@@ -78,7 +78,7 @@ Beyond our core graphics package, we build innovative experiences that supplemen
 ## Connect with me
 
 📧 bpsipandship@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/benjaminpearson)  
+🔗 [LinkedIn](https://www.linkedin.com/in/benjaminpearson9/)  
 🌐 [Dizplai](https://dizplai.com)
 
 ---
