@@ -27,9 +27,9 @@
 
 **Personal Projects**
 
-- ☕ **Sipster** – Native iOS app for discovering independent coffee shops. Tinder-style swipe interface, 200+ chain filter, running-distance modes. Built in Swift/SwiftUI with Firebase & Google Places API. *Targeting App Store Q1 2026.*
-- 📱 **Tapel** – *Submitted to the Apple App Store* ✅
-- 🎾 **Padel Scoring App** – Real-time match scoring and tournament management for padel tennis - never forget the score again!
+- ☕ **Sipster** – Native iOS app for discovering independent coffee shops. Tinder-style swipe interface, 200+ chain filter, running-distance modes. Built in Swift/SwiftUI with Firebase & Google Places API. *Targeting App Store Q2 2026.*
+- 🎾 **Padel Scoring App** – Real-time match scoring and tournament management for padel tennis - never forget the score again! *Submitted to the Apple App Store* ✅ https://apps.apple.com/gb/app/tapel/id6758989322
+  
 
 ---
 
